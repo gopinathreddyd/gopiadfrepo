@@ -1,0 +1,9 @@
+{
+	"name": "28-06-1992",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f41ccffc-f2e1-414f-a920-8cd50e6c7ed5",
+		"tenantId": "f1d9f723-6aca-4dee-8ff8-431c1b4f7793"
+	}
+}
